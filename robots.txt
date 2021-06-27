@@ -1,0 +1,5 @@
+robots.txt by avintion.in
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: avintion.in
