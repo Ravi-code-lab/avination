@@ -1,5 +1,4 @@
-robots.txt by avination.in
 User-agent: *
 Disallow: 
 Disallow: /cgi-bin/
-Sitemap: avination.in
+Sitemap: https://avination.in/
