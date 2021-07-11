@@ -121,6 +121,31 @@ section {
 }
 /* //contact page */
 .card-padding{
+    padding-bottom: 2%;
+}
+.support-list{
+    position:fixed;
+    bottom:5%;left:10px;
+    list-style:none;
+    width:50px;
+    background:#FFF;
+    box-shadow:0 0 14px 0 rgba(0,0,0,.16);
+    border-radius:30px;
+    text-align:center;
+    padding-top:15px;
+    padding-bottom:15px;z-index:2;color:#181818;
+}
+.support-list li{
+    display:block;
+}
+.support-list li a{
+    font-size: 20px;display:block;line-height: 40px;
+}
+.support-list li img{
+    width:30px;
+}
+/* //contact page */
+.card-padding{
   padding-bottom: 2%;
 }
 .support-list{
@@ -137,6 +162,10 @@ section {
 }
 .support-list li{
   display:block;
+}
+.contact ul{
+  padding-left: 0rem !important; 
+
 }
 .support-list li a{
   font-size: 20px;display:block;line-height: 40px;
